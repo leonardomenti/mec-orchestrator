@@ -15,3 +15,7 @@ The study begins with an exploration of the ETSI MEC framework, delving into its
 ## Conclusion
 
 This thesis project seeks to bridge the gap between theoretical MEC architecture and practical implementation within the OMNeT++ simulation environment. It focuses on creating entities that represent the MEC framework, enabling in-depth simulations and analysis.
+
+---
+
+This project accompanies this [presentation](presentation.pdf) (Italian) and this [book](thesis.pdf) (Italian)
